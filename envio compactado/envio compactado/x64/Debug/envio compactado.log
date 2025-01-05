@@ -1,0 +1,21 @@
+﻿  envio compactado.cpp
+C:\Users\bruno\Desktop\stream 2.0\envio compactado\envio compactado\envio compactado.cpp(114,65): warning C4244: '=': conversão de '__int64' para 'unsigned char', possível perda de dados
+C:\Users\bruno\Desktop\stream 2.0\envio compactado\envio compactado\envio compactado.cpp(122,64): warning C4244: '=': conversão de '__int64' para 'unsigned char', possível perda de dados
+C:\Users\bruno\Desktop\stream 2.0\envio compactado\envio compactado\envio compactado.cpp(129,80): warning C4244: '=': conversão de '__int64' para 'unsigned char', possível perda de dados
+C:\Users\bruno\Desktop\stream 2.0\envio compactado\envio compactado\envio compactado.cpp(154,67): warning C4244: '=': conversão de '__int64' para 'unsigned char', possível perda de dados
+C:\Users\bruno\Desktop\stream 2.0\envio compactado\envio compactado\envio compactado.cpp(162,66): warning C4244: '=': conversão de '__int64' para 'unsigned char', possível perda de dados
+C:\Users\bruno\Desktop\stream 2.0\envio compactado\envio compactado\envio compactado.cpp(169,86): warning C4244: '=': conversão de '__int64' para 'unsigned char', possível perda de dados
+C:\Users\bruno\Desktop\stream 2.0\envio compactado\envio compactado\envio compactado.cpp(195,67): warning C4244: '=': conversão de '__int64' para 'unsigned char', possível perda de dados
+C:\Users\bruno\Desktop\stream 2.0\envio compactado\envio compactado\envio compactado.cpp(203,66): warning C4244: '=': conversão de '__int64' para 'unsigned char', possível perda de dados
+C:\Users\bruno\Desktop\stream 2.0\envio compactado\envio compactado\envio compactado.cpp(210,86): warning C4244: '=': conversão de '__int64' para 'unsigned char', possível perda de dados
+C:\Users\bruno\Desktop\stream 2.0\envio compactado\envio compactado\envio compactado.cpp(228,10): warning C4244: '=': conversão de '__int64' para 'unsigned int', possível perda de dados
+C:\Users\bruno\Desktop\stream 2.0\envio compactado\envio compactado\envio compactado.cpp(229,26): warning C4244: '=': conversão de '__int64' para 'unsigned int', possível perda de dados
+C:\Users\bruno\Desktop\stream 2.0\envio compactado\envio compactado\envio compactado.cpp(230,26): warning C4244: '=': conversão de '__int64' para 'unsigned int', possível perda de dados
+C:\Users\bruno\Desktop\stream 2.0\envio compactado\envio compactado\envio compactado.cpp(241,27): warning C4244: '=': conversão de '__int64' para 'unsigned int', possível perda de dados
+C:\Users\bruno\Desktop\stream 2.0\envio compactado\envio compactado\envio compactado.cpp(249,26): warning C4244: '=': conversão de '__int64' para 'unsigned int', possível perda de dados
+C:\Users\bruno\Desktop\stream 2.0\envio compactado\envio compactado\envio compactado.cpp(251,30): warning C4244: '=': conversão de '__int64' para 'unsigned int', possível perda de dados
+C:\Users\bruno\Desktop\stream 2.0\envio compactado\envio compactado\envio compactado.cpp(262,28): warning C4244: '=': conversão de '__int64' para 'unsigned int', possível perda de dados
+C:\Users\bruno\Desktop\stream 2.0\envio compactado\envio compactado\envio compactado.cpp(269,23): warning C4244: '=': conversão de '__int64' para 'unsigned int', possível perda de dados
+C:\Users\bruno\Desktop\stream 2.0\envio compactado\envio compactado\envio compactado.cpp(283,12): warning C4244: '=': conversão de '__int64' para 'unsigned int', possível perda de dados
+C:\Users\bruno\Desktop\stream 2.0\envio compactado\envio compactado\envio compactado.cpp(293,46): warning C4244: '=': conversão de '__int64' para 'unsigned int', possível perda de dados
+  envio compactado.vcxproj -> C:\Users\bruno\Desktop\stream 2.0\envio compactado\x64\Debug\envio compactado.exe
